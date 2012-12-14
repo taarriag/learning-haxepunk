@@ -1,7 +1,7 @@
 learning-haxepunk
 =================
 
-Code from FlashPunk video tutorials (http://flashpunk.net/tutorials/) adapted to HaxePunk (In progress).
+A HaxePunk version of the code from Zachary Lewis's [FlashPunk video tutorials](http://flashpunk.net/tutorials/), up to episode 7.
 
 Requires Haxe + NME + HaxePunk, check the following links for more info:
 
